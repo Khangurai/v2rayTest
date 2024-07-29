@@ -39,4 +39,7 @@ ss://YWVzLTI1Ni1nY206c2VydmVyYnluNHZwbg@my.t3amn4.shop:1111?type=tcp#Malaysia%20
 ss://YWVzLTI1Ni1nY206bjR2cG5mcmVlc2VydmVy@20.2.82.219:8443?type=tcp#All%20SIM%20%26%20WIFI
 ss://YWVzLTI1Ni1nY206bjR2cG5wcm8tZnJlZXNlcnZlcg@20.44.51.214:8443?type=tcp
 ss://YWVzLTI1Ni1nY206bjRmcmVla2V5@20.15.104.48:8443?type=tcp#ALL%20SIM%20%26%20WIFI
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@skylink-vpn-service.shop:443?path=%2FDVHkDFcu1VF2s6hO%2FMTQ2LjE5MC4xMTAuMTk2%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=SkylinK-vpn-SErvIce.shoP&fp=randomized&type=ws&sni=SkyLINk-vpn-SeRViCE.ShOP#%F0%9F%92%A6+BPB+-+skylink-vpn-service....
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FkwymcCwtSVm1kD0y%2FMTQ2LjE5MC4xMTAuMTk2%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=SKYlINK-VpN-sErvICe.sHOP&fp=randomized&type=ws&sni=SkyliNK-vpN-SerVice.sHop#%F0%9F%92%A6+BPB+-+www.speedtest.net
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.131.28:443?path=%2Fndxwrdb9tjPwPfOv%2FMTQ2LjE5MC4xMTAuMTk2%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=SkYlINk-vPN-seRvice.SHoP&fp=randomized&type=ws&sni=skYLiNK-vPN-SERvice.SHOp#%F0%9F%92%A6+BPB+-+172.67.131.28
 
