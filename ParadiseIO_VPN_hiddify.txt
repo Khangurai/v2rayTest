@@ -74,3 +74,4 @@ vless://5db637f5-6ef6-40b3-85dd-900d6c740238@v2ray.v2rayconfig.site:443?path=%2F
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.131.28:443?path=%2FTyTfaS1bJuhwLXhE%2FMTQ2LjE5MC4xMTAuMTk2%3Fed%3D2560&security=tls&encryption=none&host=skylinK-Vpn-SeRViCE.shop&fp=randomized&type=ws&sni=sKYliNk-VPN-serviCE.SHOp#SKYLINKVPN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.3.190:443?path=%2Fc913S5O5MiVYIaGA%2FMTQ2LjE5MC4xMTAuMTk2%3Fed%3D2560&security=tls&encryption=none&host=SkYLInk-VPn-seRvice.shOP&fp=randomized&type=ws&sni=SKylinK-Vpn-sErviCe.sHOP#SKYLINKVPN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.22.143:443?path=%2FBjk8Z2j0buD4oNwI%2FMTQ2LjE5MC4xMTAuMTk2%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=skylink-vPn-serVIcE.ShOp&fp=randomized&type=ws&sni=SKYLInk-VPN-sErvIce.ShOP#%F0%9F%92%A6+BPB+-+104.16.22.143
+ss://YWVzLTI1Ni1nY206ZnJlZWtleS1ieS1uNHZwbg@sg.pre1x.autos:8011?type=tcp#Outline%20Free%20Key-1000%20GB
